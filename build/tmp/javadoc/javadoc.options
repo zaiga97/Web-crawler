@@ -1,0 +1,15 @@
+-classpath '/home/zaiga97/Desktop/IRDV/WebCrawler/build/classes/java/main:/home/zaiga97/Desktop/IRDV/WebCrawler/build/resources/main:/home/zaiga97/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.14.3/c43a81e18e6d0eb71951aa031d55d5c293c531a6/jsoup-1.14.3.jar'
+-d '/home/zaiga97/Desktop/IRDV/WebCrawler/build/docs/javadoc'
+-doctitle 'WebCrawler 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'WebCrawler 1.0-SNAPSHOT API'
+'/home/zaiga97/Desktop/IRDV/WebCrawler/src/main/java/urlLoader/UrlLoader.java'
+'/home/zaiga97/Desktop/IRDV/WebCrawler/src/main/java/urlLoader/UrlFileLoader.java'
+'/home/zaiga97/Desktop/IRDV/WebCrawler/src/main/java/Main.java'
+'/home/zaiga97/Desktop/IRDV/WebCrawler/src/main/java/WebCrawler_AndreaZasa/PageCrawler.java'
+'/home/zaiga97/Desktop/IRDV/WebCrawler/src/main/java/WebCrawler_AndreaZasa/WebCrawler.java'
+'/home/zaiga97/Desktop/IRDV/WebCrawler/src/main/java/WebCrawler_AndreaZasa/UrlHandler.java'
+'/home/zaiga97/Desktop/IRDV/WebCrawler/src/main/java/WebCrawler_AndreaZasa/FairList.java'
+'/home/zaiga97/Desktop/IRDV/WebCrawler/src/main/java/parser/Parser.java'
+'/home/zaiga97/Desktop/IRDV/WebCrawler/src/main/java/parser/JsoupParser.java'
